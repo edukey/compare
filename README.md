@@ -2,7 +2,7 @@
 
 web tool to compare similar stuff
 
-similar to socialcompare.com
+similar to socialcompare.com, vschart.com, diffen, ...
 
 Requirements :
 * define a tree list of features (functions), can be seen as the table of contents of a book
